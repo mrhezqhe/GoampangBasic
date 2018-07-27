@@ -1,7 +1,7 @@
 # GoampangBasic
 Basic Go Programming
 
-1.Hello World
+1.Hello World \n
 2.Input/Output from Console
 3.Slice Basic
 4.Writing a text file
