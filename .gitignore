@@ -19,3 +19,4 @@ tmp
 .idea*
 *.iml
 *.env
+*.DS_STORE
