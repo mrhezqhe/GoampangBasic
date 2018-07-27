@@ -17,3 +17,5 @@ Basic Go Programming
 
 8. Download files
 
+9. Generate PDF file with HTML tags
+
