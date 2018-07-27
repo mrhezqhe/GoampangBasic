@@ -7,6 +7,7 @@ import (
 	"log"
 )
 
+//send email with sendgrid
 func main() {
 
 	from := mail.NewEmail("M Rizki", "testfrom@gmail.com")
