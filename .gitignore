@@ -16,4 +16,6 @@
 # PROJECT
 config/config.yaml
 tmp
-.idea
+.idea*
+*.iml
+*.env
